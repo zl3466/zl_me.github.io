@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zhiheng Hugo Site</title>
+    <link>https://zl_me.github.io/posts/</link>
+    <description>Recent content in Posts on Zhiheng Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jan 2023 12:13:47 -0500</lastBuildDate><atom:link href="https://zl_me.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost testing</title>
+      <link>https://zl_me.github.io/posts/mypost/</link>
+      <pubDate>Mon, 30 Jan 2023 12:13:47 -0500</pubDate>
+      
+      <guid>https://zl_me.github.io/posts/mypost/</guid>
+      <description>this is some contant
+public static void main(String[]args){ System.out.println(&amp;#34;this is a print statement&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
